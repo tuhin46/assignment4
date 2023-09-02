@@ -1,0 +1,27 @@
+html body {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-image: url(image/A.jpg);
+    color: white;
+    font-family: poppin, 'Times New Roman', Times, serif;
+    font-size: large;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.container {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    width: 440px;
+}
+
+.container h1 {
+    font-weight: 700;
+    margin-top: 150px;
+}
+.container input{
+    width: 350px;
+    padding: 5px;
+}
